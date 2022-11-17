@@ -1,4 +1,4 @@
-region   = "us-west-2"
+region   = "us-east-2"
 image_id = "ami-0b36cd6786bcfe120"
 subnet_prefix = [{ cidr_block = "10.0.1.0/24", name = "Web_Subnet_1" }, { cidr_block = "10.0.2.0/24", name = "Web_Subnet_2" },
   { cidr_block = "10.0.11.0/24", name = "App_Subnet_1" }, { cidr_block = "10.0.12.0/24", name = "App_Subnet_2" },
